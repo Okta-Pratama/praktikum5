@@ -1,4 +1,3 @@
-package praktikum5;
 import java.util.Scanner;
 public class pemilihanBilangan22 {
     public static void main(String[] args) {
